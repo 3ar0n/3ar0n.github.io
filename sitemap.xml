@@ -20,17 +20,24 @@
   </url>
   
   <url>
+    <loc>https://3ar0n.github.io/tags/</loc>
+    <lastmod>2019-04-10T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://3ar0n.github.io/posts/verbalthinking/</loc>
     <lastmod>2019-04-10T00:00:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://3ar0n.github.io/categories/</loc>
+    <loc>https://3ar0n.github.io/tags/book/</loc>
+    <lastmod>2019-04-10T00:00:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3ar0n.github.io/tags/</loc>
+    <loc>https://3ar0n.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
